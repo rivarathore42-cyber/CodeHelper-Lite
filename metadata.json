@@ -1,0 +1,6 @@
+{
+  "name": "CodeHelper-Lite: <50M Param Code LLM & Evaluation Dashboard",
+  "description": "Production-ready foundational lightweight language model (<50M parameters) training pipeline and interactive evaluation dashboard for coding and syntax assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
